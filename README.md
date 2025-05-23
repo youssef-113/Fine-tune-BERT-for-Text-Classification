@@ -8,7 +8,14 @@ This project fine-tunes a pre-trained BERT model using Hugging Face Transformers
 
 ## 🚀 Live Demo
 
-🔗 [Click here to try the deployed app](https://streamlit.io/) *(replace with your actual link after deployment)*
+🔗 [Click here to try the deployed app]
+
+## Kaggle Notebooke
+🔗 [https://www.kaggle.com/code/youssefbassiouny/bert-sentiment-classifier]
+
+## Colab Notebooke
+🔗 [https://colab.research.google.com/drive/1c82T2_E9ykZA_WizFZfDHUKi3NQMTuf7?usp=sharing ]
+
 
 ---
 
